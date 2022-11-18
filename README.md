@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**jaavier/jaavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a digital nomad living in Europe, working for a financial company based in Chile. I'm into programming world since I'm 10 years old and I love to keep learning about new technologies everyday.
 
-Here are some ideas to get you started:
+I have experience working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend**: *Go, Python, Node.js (+TypeScript)*
+- **Python libraries**: *Flask, Selenium, Qt4 and Boto3*
+- **Frontend**: *React.js and Angular*
+- **Relational DB**: *MySQL and PostgreSQL*
+- **No relational DB**: *MongoDB and DynamoDB*
+- **Blockchain**: *Solidity and Bitcoind*
+- **Mobile development**: *React Native with Expo.io*
+- **Amazon Web Services**: *Lambda, SQS, DynamoDB, IAM, API Gateway, SES, SNS* and ***others***
+
+You can check my Github specialized in Solidity [here](https://github.com/ethereumchile)
+
+![@jaavier Github Stats](https://github-readme-stats.vercel.app/api?username=jaavier&show_icons=true&theme=dracula&count_private=true)
+
+Also I have plans to start my learning path with Rust 🤖
