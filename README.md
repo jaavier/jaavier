@@ -9,7 +9,7 @@ I have experience working with:
 - **Frontend**: *React.js and Angular*
 - **Relational DB**: *MySQL and PostgreSQL*
 - **No relational DB**: *MongoDB and DynamoDB*
-- **Blockchain**: *Solidity and Bitcoind*
+- **Blockchain**: *Web3, Metamask, Solidity and Bitcoind*
 - **Mobile development**: *React Native with Expo.io*
 - **Amazon Web Services**: *Lambda, SQS, DynamoDB, IAM, API Gateway, SES, SNS* and ***others***
 
