@@ -18,3 +18,6 @@ You can check my Github specialized in Solidity [here](https://github.com/ethere
 ![@jaavier Github Stats](https://github-readme-stats.vercel.app/api?username=jaavier&show_icons=true&theme=dracula&count_private=true)
 
 Also I have plans to start my learning path with Rust 🤖
+
+
+![pic](https://webhook.site/a41a84e0-1659-4abb-8e06-6a3a1e23e95c?src=profile)
