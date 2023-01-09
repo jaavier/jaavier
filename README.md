@@ -15,9 +15,9 @@ I have experience working with:
 
 You can check my Github specialized in Solidity [here](https://github.com/ethereumchile)
 
-![@jaavier Github Stats](https://8-8.biz/goto/5558661d-4a60-4781-814a-19fdbc231aa4)
+![@jaavier Github Stats](https://github-readme-stats.vercel.app/api?username=jaavier&count_private=true&show_icons=true&theme=radical)
 
 Also I have plans to start my learning path with Rust 🤖
 
 
-![pic](https://8-8.biz:7777/jaavier?src=profile)
+![pic](https://8-8.biz/goto/b328360c-f449-4345-b110-59d7e47b008f/profile:github)
