@@ -6,10 +6,10 @@ I have experience working with:
 
 - **Backend**: *Go, Python, Node.js (+TypeScript)*
 - **Python libraries**: *Flask, Selenium, Qt4 and Boto3*
-- **Frontend**: *React.js and Angular*
+- **Frontend**: *React.js*
 - **Relational DB**: *MySQL and PostgreSQL*
 - **No relational DB**: *MongoDB and DynamoDB*
-- **Blockchain**: *Web3, Metamask, Solidity and Bitcoind*
+- **Blockchain**: *Web3, Metamask, Solidity and Bitcoin*
 - **Mobile development**: *React Native with Expo.io*
 - **Amazon Web Services**: *Lambda, SQS, DynamoDB, IAM, API Gateway, SES, SNS* and ***others***
 
