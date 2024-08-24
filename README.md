@@ -6,7 +6,7 @@ I have experience working with:
 
 - **Backend**: *Go, Python, Node.js (+TypeScript)*
 - **Python libraries**: *Flask, Selenium, Qt4 and Boto3*
-- **Frontend**: *React.js*
+- **Frontend**: *React.js, TailwindCSS*
 - **Relational DB**: *MySQL and PostgreSQL*
 - **No relational DB**: *MongoDB and DynamoDB*
 - **Blockchain**: *Web3, Metamask, Solidity and Bitcoin*
