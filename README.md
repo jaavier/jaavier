@@ -7,7 +7,7 @@ Here’s a quick look at my technical expertise:
 - **Backend Development**: *Go, Python, Node.js (+TypeScript)*
 - **Python Libraries**: *Flask, Selenium, Qt4, Boto3*
 - **Frontend Development**: *React.js, TailwindCSS*
-- **Databases**: *MySQL, PostgreSQL (Relational) | MongoDB, DynamoDB (NoSQL)*
+- **Databases**: *MySQL, PostgreSQL, MongoDB, DynamoDB
 - **Blockchain**: *Web3, Metamask, Solidity, Bitcoin*
 - **Mobile Development**: *React Native with Expo.io*
 - **Cloud & Infrastructure**: *AWS (Lambda, SQS, DynamoDB, IAM, API Gateway, SES, SNS)*
