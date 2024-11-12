@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-I'm from Santiago, Chile and I'm into programming world since I'm 10 years old and I love to keep learning about new technologies everyday.
+I'm originally from Santiago, Chile, but I've been calling Paris, France, home for some time now. My journey into the programming world started at the age of 10, and since then, I've been constantly learning and exploring new technologies. I’m passionate about building solutions that push the boundaries of what’s possible.
 
-I have experience working with:
+Here’s a quick look at my technical expertise:
 
-- **Backend**: *Go, Python, Node.js (+TypeScript)*
-- **Python libraries**: *Flask, Selenium, Qt4 and Boto3*
-- **Frontend**: *React.js, TailwindCSS*
-- **Relational DB**: *MySQL and PostgreSQL*
-- **No relational DB**: *MongoDB and DynamoDB*
-- **Blockchain**: *Web3, Metamask, Solidity and Bitcoin*
-- **Mobile development**: *React Native with Expo.io*
-- **Amazon Web Services**: *Lambda, SQS, DynamoDB, IAM, API Gateway, SES, SNS* and ***others***
+- **Backend Development**: *Go, Python, Node.js (+TypeScript)*
+- **Python Libraries**: *Flask, Selenium, Qt4, Boto3*
+- **Frontend Development**: *React.js, TailwindCSS*
+- **Databases**: *MySQL, PostgreSQL (Relational) | MongoDB, DynamoDB (NoSQL)*
+- **Blockchain**: *Web3, Metamask, Solidity, Bitcoin*
+- **Mobile Development**: *React Native with Expo.io*
+- **Cloud & Infrastructure**: *AWS (Lambda, SQS, DynamoDB, IAM, API Gateway, SES, SNS)*
 
-You can check my Github specialized in Solidity [here](https://github.com/ethereumchile)
-
-![@jaavier Github Stats](https://github-readme-stats.vercel.app/api?username=jaavier&count_private=true&show_icons=true&theme=radical)
+I’m always open to new challenges and love collaborating on projects that allow me to grow and innovate. Feel free to reach out if you'd like to connect!
